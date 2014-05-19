@@ -1,0 +1,24 @@
+{
+  "name": "gitclick-test-util",
+  "version": "0.0.1",
+  "main": "lib/gitclick-test-util.js",
+  "description": "Provides tests for gitclick plugins.",
+  "keywords": [
+    "gitclick"
+  ],
+  "homepage": "https://github.com/maximilianschmitt/gitclick-test-util",
+  "bugs": "https://github.com/maximilianschmitt/gitclick-test-util/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Maximilian Schmitt",
+    "email": "maximilian.schmitt@googlemail.com",
+    "url": "http://maximilianschmitt.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilianschmitt/gitclick-test-util.git"
+  },
+  "dependencies": {
+    "chai": "^1.9.1"
+  }
+}
