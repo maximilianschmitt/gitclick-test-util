@@ -18,8 +18,7 @@
     "type": "git",
     "url": "https://github.com/maximilianschmitt/gitclick-test-util.git"
   },
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": { 
     "chai": "^2.3.0",
     "chai-as-promised": "^5.0.0"
   }
