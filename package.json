@@ -1,6 +1,6 @@
 {
   "name": "gitclick-test-util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/gitclick-test-util.js",
   "description": "Provides tests for gitclick plugins.",
   "keywords": [
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "https://github.com/maximilianschmitt/gitclick-test-util.git"
   },
-  "dependencies": { 
+  "dependencies": {
     "chai": "^2.3.0",
     "chai-as-promised": "^5.0.0"
   }
